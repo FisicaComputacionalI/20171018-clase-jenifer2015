@@ -1,6 +1,6 @@
-//Programa que suma los numeros impares entre el 1 y 10
-//Autor: Daniela Canul Garcia
-//Creado el 16 de Octubre de 2017
+//Programa que suma los numeros imparepares entre el 1 y 20
+//Autor: Dorantes Garcia Jenifer
+//Creado el 176 de Octubre de 2017
 #include <iostream>
 using namespace std;
 int main ()
