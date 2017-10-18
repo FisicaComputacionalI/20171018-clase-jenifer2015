@@ -1,4 +1,4 @@
-//Programa que suma los numeros imparepares entre el 1 y 20
+//Programa que suma los numeros pares entre el 1 y 20
 //Autor: Dorantes Garcia Jenifer
 //Creado el 176 de Octubre de 2017
 #include <iostream>
